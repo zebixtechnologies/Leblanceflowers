@@ -1,0 +1,31 @@
+[
+  {"name": "Albania", "code": "AL"},
+
+  {"name": "Australia", "code": "AU"},
+  {"name": "Canada", "code": "CA"},
+{"name": "China", "code": "CN"}, 
+
+{"name": "Finland", "code": "FI"},
+{"name": "France", "code": "FR"}, 
+{"name": "India", "code": "IN"},
+{"name": "Indonesia", "code": "ID"}, 
+{"name": "Japan", "code": "JP"},
+{"name": "Malaysia", "code": "MY"},
+{"name": "Netherlands", "code": "NL"},
+{"name": "Netherlands Antilles", "code": "AN"}, 
+{"name": "New Caledonia", "code": "NC"}, 
+{"name": "New Zealand", "code": "NZ"}, 
+{"name": "Nicaragua", "code": "NI"}, 
+{"name": "Poland", "code": "PL"},
+{"name": "Saudi Arabia", "code": "SA"},
+{"name": "Spain", "code": "ES"},
+{"name": "Sri Lanka", "code": "LK"}, 
+{"name": "Sudan", "code": "SD"}, 
+{"name": "Suriname", "code": "SR"}, 
+{"name": "Turkey", "code": "TR"},
+  {"name": "United Arab Emirates", "code": "AE"},
+{"name": "United Kingdom", "code": "GB"}, 
+{"name": "United States", "code": "US"}, 
+{"name": "Viet Nam", "code": "VN"}
+
+]
